@@ -13,3 +13,5 @@
 *.gem
 mkmf.log
 commit.txt
+/.kitchen/
+Berksfile.lock
